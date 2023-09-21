@@ -79,6 +79,11 @@
         <ListPreference
             android:key="android.theme.customization.icon_pack"
             android:title="@string/theme_customization_icon_pack_title"/>
+       
+        <ListPreference
+            android:key="android.theme.customization.font"
+            android:title="@string/theme_customization_font_title"/>
+
 
     </PreferenceCategory>
 
